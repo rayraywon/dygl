@@ -5,11 +5,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWQiOenn+iKgueCuSIsDQogICJhZGQiOiAiQ1RS
 
 ---------------------HK-self--000.xyz----93--------
 
-vmess://ewogICJ2IjogInYycmF5IiwKICAicHMiOiAiSmVhbm5pZV8wMDAuY3Ryb2ZmaWNlLnh5eiIsCiAgImFkZCI6ICIwMDAuY3Ryb2ZmaWNlLnh5eiIsCiAgInBvcnQiOiAiNDQzIiwKICAiaWQiOiAiNjBmZDcxMWQtYjU3ZS00NTU1LThlNjgtNmU0MjZmNzQzNGI5IiwKICAiYWlkIjogIjY0IiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIvcmF5LyIsCiAgInRscyI6ICJ0bHMiCn0K
-
----------------------HK-self--ray.xyz---218---------
-
-vmess://ewogICJ2IjogInYycmF5IiwKICAicHMiOiAiSmVhbm5pZV9yYXkuY3Ryb2ZmaWNlLnh5eiIsCiAgImFkZCI6ICJyYXkuY3Ryb2ZmaWNlLnh5eiIsCiAgInBvcnQiOiAiNDQzIiwKICAiaWQiOiAiNWM0MDFlNGItMDMwNi00NWE3LThiYTktZmViODg1N2M0OThmIiwKICAiYWlkIjogIjY0IiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIvcmF5LyIsCiAgInRscyI6ICJ0bHMiCn0K
 
 
 ---------------------JP王子月付-------------------------
